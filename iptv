@@ -1,0 +1,560 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: 1 Music Channel
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44892.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: 6 TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44918.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: A7 TV FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44919.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ACASA TV HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44992.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: AMC RO
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43651.m3u8
+#EXTINF:0 tvg-id="AXN.ro" group-title="Channels",RO: AXN
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43660.m3u8
+#EXTINF:0 tvg-id="AXNSciFi.ro" group-title="Channels",RO: AXN Black
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43659.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: AXN FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44885.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: AXN Spin
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44886.m3u8
+#EXTINF:0 tvg-id="AXNCrime.ro" group-title="Channels",RO: AXN White
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43661.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: AXN mania
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44884.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Acasa Gold
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44993.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Actualitatea TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44920.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Acum TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44921.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Ag TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44896.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Agro TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43650.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Alfa & Omega
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44922.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Animal Planet
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43652.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Animal Planet HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43653.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Antena 1
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43654.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Antena 1 HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43655.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Antena 3
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43656.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Antena 3 FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44854.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Antena Stars
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43657.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Antena Stars FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44871.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Apollonia TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44923.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Arcadia World FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44906.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Auto Motor Sport
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43658.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: B1 TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43662.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: BBC Earth FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44878.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: BBC Earth HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44877.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: BIT TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44925.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Bollywood Clasic
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44926.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Bollywood TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43663.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Boomerang
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Brazzers TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43665.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Bucovina TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44927.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Bucuresti TV FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44907.m3u8
+#EXTINF:0 tvg-id="ZoneReality.ro" group-title="Channels",RO: CBS Reality
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43668.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Canal 33
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44928.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.ro" group-title="Channels",RO: Cartoon
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43666.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cinemaraton
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43669.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cinemax 1
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43670.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cinemax 1 FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44910.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cinemax 2
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43671.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cinemax 2 FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44911.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cinethronix
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44930.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cmtel TV HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44916.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Columna TV HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44915.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Comedy Central
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44931.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Credo Tv
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44932.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Crime Investigation
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44933.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cromtel TV HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44934.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Cromtel TV Radauti
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44935.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Curier TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44936.m3u8
+#EXTINF:0 tvg-id="DIGIAnimalWorld.ro" group-title="Channels",RO: DIGI Animal World
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43673.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI FILIM HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44995.m3u8
+#EXTINF:0 tvg-id="DigiLife.ro" group-title="Channels",RO: DIGI Life
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43674.m3u8
+#EXTINF:0 tvg-id="DigiSport1.ro" group-title="Channels",RO: DIGI Sport 1
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43675.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI Sport 1 HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43676.m3u8
+#EXTINF:0 tvg-id="DigiSport2.ro" group-title="Channels",RO: DIGI Sport 2
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43677.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI Sport 2 HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43678.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DIGI Sport 4
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43680.m3u8
+#EXTINF:0 tvg-id="DigiWorld.ro" group-title="Channels",RO: DIGI World
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43681.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DTX
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43691.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Da Vinci Learning
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43672.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Diaspora TV FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44937.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Digi 24 Craiova
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44897.m3u8
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",RO: Digi 24
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44853.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Digi 24 HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44852.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Digi Animal World FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44874.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Digi Life FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44873.m3u8
+#EXTINF:0 tvg-id="DigiSport3.ro" group-title="Channels",RO: Digi Sport 3
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43679.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Digi Sport 3 HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44857.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Digi Sport 4 HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44858.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Digi World FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44872.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Discovery Channel
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43682.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Discovery HD Showcase
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43683.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Discovery RO
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43684.m3u8
+#EXTINF:0 tvg-id="DiscoveryScience.ro" group-title="Channels",RO: Discovery Science
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43685.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Discovery Science FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44913.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Discovery Turbo Xtra FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44914.m3u8
+#EXTINF:0 tvg-id="DisneyChannel.ro" group-title="Channels",RO: Disney Channel
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43686.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Disney Jr
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43687.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Disney ROM
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43688.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Diva
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43689.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: DocuBox
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43690.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Dolce Sport 1
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44938.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Duck TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44939.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Duna HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43692.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: E! Entertainment
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43693.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Eleven Sports1
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43694.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Eleven Sports2
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43695.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Epic Drama FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44887.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Est TV FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44940.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Estrada TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44941.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: EtnicTV FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44942.m3u8
+#EXTINF:0 tvg-id="EtnoTV.ro" group-title="Channels",RO: Etno
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43697.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: EuSport 1
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44865.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: EuSport 1
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44866.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: EuroAL TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44943.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Eurosport 1
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44944.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Eurosport 1 HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43698.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Eurosport 2 HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43699.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Eurosport2
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43700.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Extreme Sports Channel
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43701.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FILM NOW
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43705.m3u8
+#EXTINF:0 tvg-id="Favorit.ro" group-title="Channels",RO: Favorit TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43702.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FightBox
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43703.m3u8
+#EXTINF:0 tvg-id="FilmCafe.ro" group-title="Channels",RO: Film Cafe
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43704.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Film Now FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44881.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FilmBox Extra FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43707.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FilmBox Family
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44945.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FilmBox Plus
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44946.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FilmBox Premium
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43708.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Fine Living HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43710.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Fishing & Hunting
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44900.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Food Network FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44905.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Food Network HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44904.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HBO
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43715.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HBO 2 HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44909.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HBO 3
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43712.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HBO 3 HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43713.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HBO HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43714.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: HBO2
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43716.m3u8
+#EXTINF:0 tvg-id="HistoryHD.ro" group-title="Channels",RO: HISTORY
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43717.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Happy Channel
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43711.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Happy Channel FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44870.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: History HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43718.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Hit Music
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44947.m3u8
+#EXTINF:0 tvg-id="HoraTV.ro" group-title="Channels",RO: Hora TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43719.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Hustler
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Iasi TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44949.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Iasi TV Life
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44948.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Impact TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44950.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Inedit TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44951.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Infinit TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44952.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Intermedia
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44953.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Investigation Discovery HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43721.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: JimJam
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43722.m3u8
+#EXTINF:0 tvg-id="KissTV.ro" group-title="Channels",RO: KISS TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43724.m3u8
+#EXTINF:0 tvg-id="KanalD.ro" group-title="Channels",RO: Kanal D
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43723.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Kapital TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44954.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Kiss TV HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44955.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Look Plus
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43727.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Look Plus HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43725.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Look Sport
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43728.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Look Sport HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43726.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Look Tv
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44996.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MDI TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44956.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MTV Dance
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43732.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MTV Europe
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43733.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MTV Hits
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43734.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MTV Live FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44895.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MTV Rocks
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43735.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Magic TV FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44908.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Mania TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44855.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MegaMax HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44890.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Megamax
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43729.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Mezzo
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44957.m3u8
+#EXTINF:0 tvg-id="MiniMax.ro" group-title="Channels",RO: Minimax
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43730.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Mooz
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44959.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Mooz Dance FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44894.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Mooz Dance HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43731.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Mooz Dance HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44958.m3u8
+#EXTINF:0 tvg-id="MusicChannel.ro" group-title="Channels",RO: Music Channel
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43736.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: N24
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43737.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: NGC HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43741.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: NGRO
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43742.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Nasul TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44960.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Nat Geo Wild
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44879.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Nat Geo Wild HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43738.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: NatGeo FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44875.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: National 24
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44929.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: National Geographic
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43739.m3u8
+#EXTINF:0 tvg-id="NationalTV.ro" group-title="Channels",RO: National TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43740.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Nest TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44961.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Nick Jr
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44962.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Nickelodeon
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44888.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Nickolodeon FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44889.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Nicktoons
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44963.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Noc TV HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44917.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Noroc TV HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44964.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Orizont Tv
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44965.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: P TV International
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44851.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: P-X FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44864.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: P.2
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44867.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: P.2 FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44868.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: P.GOLD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44869.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: PRO 2 HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43745.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: PRO GOLD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43747.m3u8
+#EXTINF:0 tvg-id="PROTV.ro" group-title="Channels",RO: PRO TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43748.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: PRO TV INTERNATIONAL
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43749.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: PRO X
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43750.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: PTV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44849.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: PTV FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44850.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Paramount Channel
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44883.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Plus Suceava
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44966.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Prima Cool
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44902.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Prima Love
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44903.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Prima TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43743.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Private TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43744.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Pro TV HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43751.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ProTv News
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44968.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Profit TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44967.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: RTL Lounge
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43754.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: RTV (Romania)
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44994.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Rapsodia Botosani
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44969.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Realitatea Plus
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44970.m3u8
+#EXTINF:0 tvg-id="RealitateaTV.ro" group-title="Channels",RO: Realitatea TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43752.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Roma TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44971.m3u8
+#EXTINF:0 tvg-id="RomaniaTV.ro" group-title="Channels",RO: Romania TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44972.m3u8
+#EXTINF:0 tvg-id="RomaniaTV.ro" group-title="Channels",RO: Romania TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43753.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Sangeorz Tv
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44973.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: SperantaTV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43755.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Sport.
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44859.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Sundance TV HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43756.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Super TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44975.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: SuperOne
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43757.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TLC
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44986.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TNT
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43759.m3u8
+#EXTINF:0 tvg-id="TV1000.ro" group-title="Channels",RO: TV 1000
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43762.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TV Neptun
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43763.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TV Paprika
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43764.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TV5 Monde
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44901.m3u8
+#EXTINF:0 tvg-id="TVR1.ro" group-title="Channels",RO: TVR 1
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43769.m3u8
+#EXTINF:0 tvg-id="TVR2.ro" group-title="Channels",RO: TVR 2
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43766.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR 3
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43767.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR Cluj
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44988.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR Craiova
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44989.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44847.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR International
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44848.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Taraf
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43758.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Tele M Botosani
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44976.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Tele M Iasi
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44977.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Tele M
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44978.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TeleKom Sport 1 FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44860.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Telekom Sport 1
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44979.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Telekom Sport 2
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44980.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Telekom Sport 2 FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44861.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Telekom Sport 3
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44981.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Telekom Sport 3 FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44862.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Telekom Sport 4
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44982.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Telekom Sport 4 FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44863.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Telekom Sport 5  [Live During Events Only]
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44983.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Telekom Sport 6  [Live During Events Only]
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44984.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Tezaur TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44985.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Traditional tv
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44987.m3u8
+#EXTINF:0 tvg-id="TravelChannel.ro" group-title="Channels",RO: Travel Channel
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43760.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Travel Channel HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43761.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Travel Mix FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44880.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Trinitas
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44899.m3u8
+#EXTINF:0 tvg-id="UTV.ro" group-title="Channels",RO: U TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43770.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: UTV FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44891.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Universal HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44912.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: VH 1
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44991.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: VH1 Classic
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43771.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Valea Prahovei TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44990.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Viasat Explorer
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43772.m3u8
+#EXTINF:0 tvg-id="ViasatHistory.ro" group-title="Channels",RO: Viasat History
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43774.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Viasat Nature
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43775.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Viasat Nature/History FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44876.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: ZUTV FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/44893.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Alpha media
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45088.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Campus Buzau
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45087.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: COMEDY EST
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45086.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: E HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45085.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: FASHION TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45084.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Gagiu tv
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45083.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Galaxy TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45082.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Maramures tv
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45081.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: MISA TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45080.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Somax Tv
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45079.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Tele Drobeta 2
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45076.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TL
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45075.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Tv Kit
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45074.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR Iasi
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45073.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TVR Timisoara
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/45089.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: Zu TV
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43776.m3u8
+
